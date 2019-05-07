@@ -1,0 +1,4 @@
+rencana konten aew
+- membuat tutorial dari bahasa pemrograman yang di kuasai 
+  * PHP
+  * Framework CodeIgniter
